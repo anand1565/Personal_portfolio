@@ -1,0 +1,8 @@
+*{
+    font-family: "DM Serif Display", serif;
+}
+
+.hrTag{
+    border-bottom: 1px solid grey;
+    width: 40%;
+}
